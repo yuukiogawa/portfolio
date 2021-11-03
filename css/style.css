@@ -175,6 +175,7 @@ body{
     
     .section-title{
         font-size: 20px;
+        width: 90%;
     }
     
     .works-list{
@@ -239,12 +240,13 @@ body{
         font-size: 15px;
         letter-spacing: 0.05em;
         line-height: 2;
-        width: 70%;
+        width: 90%;
         margin: 30px auto 60px;
     }
 
     .skill p{
         text-align: start;
+        width: 90%;
     }
     
     
